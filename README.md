@@ -1,6 +1,6 @@
 # 🚀 Danish Iqbal - DevOps Portfolio
 
-![Portfolio Banner](images/danish.jpg)
+![Portfolio Banner](danish.png)
 
 ## 👨‍💻 About Me
 
@@ -14,7 +14,7 @@ I am passionate about building scalable cloud infrastructure, automating deploym
 
 ## 🌐 Live Demo
 
-🔗 Portfolio Website: https://your-domain.com
+🔗 Portfolio Website: https://danishiqbal-devops.github.io/Static-Website-Deployment/
 
 ---
 
@@ -22,7 +22,7 @@ I am passionate about building scalable cloud infrastructure, automating deploym
 
 📥 Download Resume
 
-[Download CV](Danish-Iqbal-CV.pdf)
+[Download CV](Danish-Iqbal-CV.pdf.pdf)
 
 ---
 
